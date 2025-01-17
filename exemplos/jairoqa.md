@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para criar título do ebook. Por outro lado, o "create micr
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente para as crianças, demonstrando como elas podem ser criativas com pinturas dos desenhos.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://www.amazon.com)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
